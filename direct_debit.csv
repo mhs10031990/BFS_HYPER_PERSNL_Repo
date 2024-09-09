@@ -1,0 +1,515 @@
+Cust_ID,Direct_Deb_Status,Bank_Name,DD_Amt,Mandate_Dt,Mandate_Num,Branch_Code,Beneficiary,Frequency,End_Date
+3394,Active,UBS,"$3,254.89",24th,OELMGB0BH8E,075448079,Hiran Banerjee,Half Yearly,2020-11-24
+3394,Active,Bank of America,"$42,303.38",21th,QIIAGBJ3S2A,061771815,Dhanush Bahl,Monthly,2021-02-13
+5288,Closed,Discover Financial,$3.07,9th,NOSPGBMTY7X,115073841,Tiya Sampath,Quarterly,2022-04-28
+5288,Closed,Credit Suisse,$7.41,2nd,ZVRQGBHO310,048906810,Adira Savant,Yearly,2021-11-11
+5288,Closed,Santander Bank,$122.56,2nd,QTJIGB7ROAT,115073841,Tarini Baria,Quarterly,2021-09-14
+5288,Closed,Credit Suisse,$5.38,2nd,GWKKGB5QMOL,103019736,Zara Mand,Yearly,2022-09-01
+5288,Active,American Express,"$3,874.31",6th,NRJBGBF7BOX,076188008,Khushi Gaba,Quarterly,2021-04-30
+5288,Closed,HSBC Bank USA,$4.48,12th,NGCMGBLI6MR,048117780,Rati Khanna,Half Yearly,2021-08-07
+8557,Active,HSBC Bank USA,"$99,582.15",7th,TTGOGBCOHXU,040997762,Amani Shetty,Half Yearly,2021-06-23
+8557,Active,Santander Bank,"$15,669.75",12th,ISUMGBUM3JF,066502733,Piya Konda,Half Yearly,2021-12-26
+8557,Closed,JPMorgan Chase,$1.74,3rd,GXRGGB3OPK8,035139823,Kabir Warrior,Yearly,2023-01-13
+8557,Closed,BankUnited,$98.79,7th,NCHFGB3FPVR,035139823,Anaya Shetty,Half Yearly,2022-11-15
+8557,Closed,Bank of America,"$2,848.36",28th,QAVEGBBLEDP,115412240,Bhamini Venkatesh,Yearly,2022-12-20
+7471,Active,Citigroup,$59.32,16th,ITFMGBDBQ6V,011041485,Nishith Bali,Yearly,2022-10-05
+7471,Active,JPMorgan Chase,$6.59,24th,FVJSGB3WV98,048117780,Bhamini Ahluwalia,Yearly,2022-12-03
+7471,Closed,Discover Financial,"$7,699.81",15th,NTMCGBLJPH9,102239685,Ishaan Andra,Monthly,2021-02-08
+2364,Active,Barclays,$46.49,4th,WPLSGBZT6CC,103019736,Taran Bhasin,Yearly,2021-06-12
+9457,Closed,RBC Bank,$704.06,2nd,IGVHGBTHEXZ,061771815,Divit Saxena,Quarterly,2021-03-10
+9457,Active,Citizens Financial Group,$1.68,6th,QBLHGBSYA3U,102239685,Uthkarsh Lall,Quarterly,2021-11-20
+3750,Closed,Capital One,$5.49,1st,FFSFGBVOTC2,048117780,Azad Bath,Yearly,2022-02-28
+3750,Closed,Discover Financial,"$37,214.98",4th,SEUKGBD86J1,061771815,Himmat Thaker,Monthly,2022-11-04
+3750,Closed,BankUnited,"$77,401.83",20th,RGOWGB0MXUS,035139823,Uthkarsh Deol,Monthly,2021-04-30
+3750,Closed,Discover Financial,"$66,906.51",26th,SMRTGBP1UDI,048906810,Hunar Dey,Yearly,2022-04-30
+3750,Active,Santander Bank,"$83,885.26",23th,FYDMGB4PA0E,115073841,Ayesha Varkey,Half Yearly,2020-12-24
+3750,Closed,Santander Bank,$80.74,4th,TPJFGBF3W0W,069613807,Uthkarsh Swamy,Monthly,2022-10-22
+3750,Active,Barclays,$14.42,6th,UKDUGBB7762,040997762,Jiya Garde,Half Yearly,2022-08-26
+6859,Closed,Barclays,$271.13,17th,CUTMGB8AMUK,125225980,Khushi Varma,Half Yearly,2021-11-15
+6859,Active,Citigroup,$742.93,10th,WBXYGBFZ7CX,061771815,Dharmajan Tank,Yearly,2022-07-09
+535,Active,BankUnited,$8.91,19th,VXWMGBGHY77,103019736,Miraya Chokshi,Quarterly,2020-11-06
+535,Active,HSBC Bank USA,$20.34,21th,DBQTGB73FWO,014222036,Indrajit Rattan,Monthly,2020-09-21
+535,Active,UBS,$725.30,1st,NXTXGBR6CBI,103019736,Reyansh Doshi,Quarterly,2020-12-26
+5203,Active,UBS,$79.81,16th,VFKZGB95TFL,075448079,Darshit Buch,Quarterly,2022-07-07
+5203,Closed,Goldman Sachs,$5.15,15th,HVKHGBAP7H6,102239685,Drishya Rajagopalan,Yearly,2021-11-02
+5203,Active,Credit Suisse,$557.08,10th,DAXKGB4BJK5,102239685,Rania Dasgupta,Quarterly,2021-12-01
+5203,Active,Wells Fargo,"$35,855.19",1st,XUDSGBV8ERO,069613807,Jivin Din,Half Yearly,2022-10-07
+5203,Active,JPMorgan Chase,$74.52,8th,QBWBGBLEN5K,125225980,Mohanlal Ramanathan,Half Yearly,2022-08-11
+5203,Active,BankUnited,$917.62,18th,FUDEGB9GBST,076188008,Sana Saran,Yearly,2022-08-01
+5203,Closed,UBS,$483.76,21th,GZTGGBHIUFH,115412240,Samar Sawhney,Monthly,2022-04-21
+4964,Active,Barclays,$1.28,28th,WTDCGB0XGW4,061771815,Romil Koshy,Half Yearly,2022-04-26
+4964,Closed,HSBC Bank USA,$3.08,15th,TMVPGBN7CZ2,115412240,Tushar Badal,Quarterly,2021-08-08
+3899,Active,Goldman Sachs,$4.82,16th,PHPFGB1SE3V,115073841,Kiara Aurora,Monthly,2020-11-19
+3899,Closed,UBS,"$56,654.14",21th,EWRYGBHRJRK,061771815,Shayak Bala,Quarterly,2020-12-20
+3899,Active,JPMorgan Chase,$86.55,2nd,KHOOGBQGSVB,011041485,Abram Bajaj,Half Yearly,2021-01-19
+9452,Active,UBS,$150.58,22th,XWKHGBYJX79,048117780,Trisha Desai,Quarterly,2020-12-07
+982,Closed,Goldman Sachs,$878.19,10th,IDKZGB3X29P,125225980,Aayush Desai,Yearly,2022-01-02
+982,Closed,UBS,$75.36,6th,TANIGB3XZQP,048117780,Mamooty Chand,Monthly,2021-04-23
+5633,Closed,RBC Bank,"$7,531.77",17th,QLGSGB6BI4A,040997762,Anay Upadhyay,Quarterly,2020-10-31
+5633,Closed,Citizens Financial Group,"$1,048.83",5th,RAHZGBC19EV,103019736,Taimur Dora,Quarterly,2021-12-20
+5633,Active,Morgan Stanley,$4.24,20th,UMCKGBJIC01,076188008,Shalv Krish,Quarterly,2022-10-16
+5633,Active,JPMorgan Chase,$88.28,28th,UQUGGBBJ82P,125225980,Divij Mahajan,Monthly,2021-07-31
+9088,Active,Bank of America,"$9,788.20",3rd,IKGWGB5TZY2,040997762,Yuvraj  Vala,Yearly,2023-01-11
+9088,Active,Santander Bank,$721.67,12th,CVBXGBQA2P3,066502733,Manikya Vyas,Monthly,2022-03-16
+9088,Active,HSBC Bank USA,$1.42,10th,VHVLGBT5OFD,075448079,Arnav Grewal,Half Yearly,2022-10-17
+9088,Closed,Citizens Financial Group,$3.94,22th,BKGBGBM05DF,014222036,Hrishita Behl,Half Yearly,2021-10-05
+9088,Active,JPMorgan Chase,$30.94,5th,WAJEGBIXFGV,125225980,Shayak Korpal,Yearly,2021-02-15
+9088,Closed,Bank of America,"$9,339.16",15th,UXSLGBEE8NP,115412240,Aarav Bora,Monthly,2022-03-26
+9088,Active,Credit Suisse,$5.08,8th,ZNEBGBSA2F1,102239685,Rohan Madan,Half Yearly,2020-09-14
+6743,Active,Credit Suisse,"$6,841.41",22th,TONWGBL0ZMF,035139823,Trisha Dugal,Quarterly,2022-05-29
+6743,Closed,Bank of America,"$6,016.20",22th,CZRTGBLBYQP,040997762,Nirvi Gupta,Monthly,2022-04-13
+6743,Closed,JPMorgan Chase,"$1,784.29",19th,KPXFGBAUVNB,040997762,Stuvan Gupta,Half Yearly,2021-05-21
+6743,Active,Santander Bank,$45.15,23th,YRNRGB9BB7N,125225980,Vaibhav Kaul,Quarterly,2021-03-04
+6743,Closed,Bank of America,"$34,215.29",25th,GXBQGBY4SDH,014222036,Anaya Das,Half Yearly,2021-01-10
+6743,Closed,Santander Bank,"$5,992.47",10th,PSZZGBCKH77,115412240,Hazel Shanker,Quarterly,2020-09-20
+8557,Active,Capital One,$8.39,1st,JDWEGBZOU7I,125225980,Trisha Halder,Yearly,2021-11-01
+8557,Closed,Capital One,"$74,193.92",26th,ZVAZGBK6VDR,115073841,Yasmin Shan,Half Yearly,2022-02-08
+8557,Active,HSBC Bank USA,$4.31,5th,RXMMGB8T4K3,102239685,Aarush Mandal,Quarterly,2021-03-24
+8557,Active,Credit Suisse,$6.80,19th,KPHGGBLH6AX,115412240,Shayak Mall,Quarterly,2022-04-27
+8557,Active,Citizens Financial Group,$67.49,2nd,HIRTGBLRCYK,025099630,Ranbir Bassi,Monthly,2021-06-13
+8557,Closed,RBC Bank,$369.95,15th,EVUVGB0X4E1,035139823,Hiran Ramakrishnan,Quarterly,2020-10-30
+8557,Closed,Morgan Stanley,"$88,520.59",5th,GFJTGBY482L,076188008,Ehsaan Rout,Monthly,2022-08-03
+2212,Closed,JPMorgan Chase,$936.93,18th,ORQQGBZAFLO,048117780,Charvi Bobal,Yearly,2020-11-01
+2212,Closed,RBC Bank,$88.42,11th,EIKEGBEKGAO,103019736,Zara Chandran,Half Yearly,2021-12-31
+2212,Closed,Santander Bank,$91.53,11th,IUHIGB0KRSQ,115073841,Lakshit Kade,Yearly,2023-01-06
+2212,Closed,Santander Bank,$17.60,7th,IGBSGB65GBW,040997762,Shray Mand,Monthly,2022-04-13
+2212,Closed,BankUnited,$3.02,23th,UQDOGBC8XOT,103019736,Divyansh Char,Yearly,2021-11-29
+5652,Active,Credit Suisse,$9.67,25th,GVHJGBU2R2H,111919666,Zeeshan Zacharia,Monthly,2022-02-13
+5652,Active,JPMorgan Chase,$1.91,14th,NJCIGBD6PXA,040997762,Mishti Viswanathan,Yearly,2021-10-08
+5652,Closed,Barclays,$9.07,3rd,MXYZGB2NXQQ,119706826,Jiya Wali,Yearly,2022-06-14
+5652,Active,Barclays,$24.73,19th,ACWZGBXD5YB,035139823,Ahana  Kanda,Half Yearly,2022-12-04
+5652,Active,Santander Bank,$71.67,15th,CWDKGB7ADZW,075448079,Ela Sarin,Half Yearly,2022-09-17
+5652,Closed,Morgan Stanley,"$1,196.44",8th,IUHAGB4VAXD,111919666,Anvi Walia,Yearly,2022-01-19
+9250,Closed,Santander Bank,"$97,578.05",19th,BAALGBAY8C1,115412240,Vedika Mangat,Monthly,2021-07-18
+9250,Closed,American Express,$771.82,15th,FHXAGBNHHCU,125225980,Zoya Biswas,Monthly,2020-10-19
+9250,Active,Citizens Financial Group,"$81,386.84",12th,KSJCGBYLBP0,115073841,Lakshay Sawhney,Half Yearly,2021-09-13
+9250,Closed,Citizens Financial Group,"$55,137.18",27th,KKYJGBNNYH9,014222036,Vidur Char,Half Yearly,2022-07-19
+9250,Active,RBC Bank,$14.21,19th,JPCPGBUPXOB,102239685,Aaina Vora,Monthly,2021-05-23
+9250,Closed,Citizens Financial Group,$5.18,5th,HCAFGBU8J6L,040997762,Aayush Chander,Monthly,2020-11-30
+9250,Active,Bank of America,"$73,156.39",19th,YPFLGB7PWJF,103019736,Kabir Balasubramanian,Quarterly,2022-11-22
+4348,Active,Citizens Financial Group,$350.89,13th,XQHBGBYSX3H,103019736,Divit Butala,Yearly,2021-07-14
+4348,Closed,Goldman Sachs,"$14,075.35",28th,XUQJGB9S39V,103019736,Kiara Ahluwalia,Quarterly,2021-02-21
+4348,Active,Santander Bank,"$17,054.32",10th,RVJZGBQWNUB,102239685,Aarna Sunder,Half Yearly,2021-02-12
+4348,Closed,RBC Bank,"$82,442.26",17th,POWLGB6NKU8,011041485,Fateh Bajaj,Monthly,2022-08-03
+4348,Active,Goldman Sachs,$6.92,2nd,PQSXGB5VMBD,040997762,Hrishita Suri,Monthly,2022-06-05
+4348,Closed,Goldman Sachs,$778.35,6th,HOMUGBZHGLV,011041485,Chirag Amble,Quarterly,2021-07-17
+6392,Closed,Goldman Sachs,$17.85,25th,LNOJGBXABCC,111919666,Tarini Goswami,Quarterly,2022-07-31
+6392,Active,Discover Financial,"$62,400.07",11th,CWRHGBGKKI8,025099630,Nakul Shere,Yearly,2021-07-24
+6392,Closed,Goldman Sachs,"$5,840.99",27th,WPMMGBJNTFF,061771815,Stuvan Kamdar,Monthly,2021-04-28
+6392,Closed,Bank of America,"$2,537.70",3rd,QDWFGBG919R,111919666,Rania Randhawa,Monthly,2021-01-26
+6392,Closed,Morgan Stanley,"$92,011.99",7th,LBQQGB3O877,040997762,Aarush Rana,Half Yearly,2021-04-23
+6392,Closed,BankUnited,$18.25,21th,OKWEGBOAA05,075448079,Kavya Buch,Monthly,2022-07-07
+6392,Closed,Bank of America,"$91,315.62",26th,VFOKGBNKEF2,125225980,Aarna Chakraborty,Monthly,2021-11-02
+926,Closed,UBS,$1.77,19th,UUQDGBB1JLP,111919666,Alia Sarraf,Half Yearly,2021-08-09
+7928,Closed,Goldman Sachs,$59.96,23th,YGQGGBABPD1,075448079,Ranbir Dewan,Half Yearly,2022-08-18
+7928,Closed,JPMorgan Chase,$927.93,10th,UTMSGBOMBIH,066502733,Shalv Shanker,Half Yearly,2021-06-04
+7928,Active,HSBC Bank USA,$98.31,26th,LHMJGB7EBBH,076188008,Khushi Rout,Yearly,2020-10-30
+7928,Active,American Express,$50.67,13th,WAMRGB87ASS,048117780,Alia Tara,Yearly,2022-05-31
+7928,Closed,Bank of America,$22.46,2nd,THEQGBUNBIO,011041485,Mamooty Tata,Quarterly,2022-09-28
+7928,Active,RBC Bank,"$24,671.10",20th,HKJJGBH9YAG,111919666,Tarini Brahmbhatt,Monthly,2021-11-21
+7928,Active,Bank of America,"$95,850.69",25th,LXSGGBYKMRR,066502733,Umang Mand,Yearly,2022-12-02
+4478,Closed,JPMorgan Chase,$94.25,15th,IXCFGBP4PIW,102239685,Bhamini Choudhury,Monthly,2020-10-31
+4478,Active,UBS,$571.34,26th,AKOXGBO5P65,076188008,Badal Raju,Monthly,2020-09-29
+4478,Closed,JPMorgan Chase,$17.80,18th,FQGAGBAB9PD,011041485,Shanaya Khalsa,Half Yearly,2021-10-01
+4478,Active,Morgan Stanley,$246.63,24th,HOYJGB3MNXT,069613807,Shanaya Guha,Half Yearly,2021-02-14
+4478,Closed,Citizens Financial Group,$9.21,28th,MXOAGBA6OZA,014222036,Vihaan Bahri,Monthly,2022-04-19
+4478,Active,JPMorgan Chase,"$51,787.11",23th,STSFGB8DKTI,115412240,Jhanvi Wable,Yearly,2022-06-30
+4478,Active,HSBC Bank USA,$14.81,16th,XSCNGB917YK,115073841,Aaryahi Salvi,Monthly,2022-04-30
+5980,Closed,JPMorgan Chase,"$26,012.61",11th,MIGEGBOR6CA,069613807,Kavya Sur,Quarterly,2021-04-30
+5980,Active,Citizens Financial Group,"$17,069.59",6th,ABKAGBB1Y21,103019736,Renee Devan,Quarterly,2021-11-24
+2212,Active,Barclays,$483.48,8th,GZEWGBCWS6R,014222036,Vaibhav Rajan,Quarterly,2021-04-10
+2212,Active,Barclays,"$1,411.33",6th,ZHGFGBZTWC6,061155428,Kashvi Lalla,Quarterly,2021-01-16
+2212,Closed,Capital One,$5.06,14th,QEASGB3KIIZ,115073841,Veer Thaker,Monthly,2020-12-23
+2212,Active,HSBC Bank USA,$147.43,15th,QNTSGB0LIU0,075448079,Kashvi Kala,Monthly,2022-07-02
+2212,Closed,Morgan Stanley,"$33,280.96",12th,YCGWGBKHDK0,061155428,Ira Sabharwal,Half Yearly,2020-10-22
+2212,Closed,Barclays,"$9,856.60",19th,NRKXGBZ54OG,115073841,Vaibhav Venkataraman,Monthly,2023-01-02
+2212,Active,UBS,$4.60,5th,YAKOGBKZYM3,014222036,Aarav Hegde,Monthly,2021-07-30
+9340,Active,Goldman Sachs,"$82,357.76",25th,KITXGBVDPFL,103019736,Veer Keer,Yearly,2021-06-08
+8172,Active,BankUnited,$1.24,4th,YAHDGBGXOM9,014222036,Damini Sankaran,Half Yearly,2022-09-19
+8172,Closed,American Express,"$55,023.40",14th,UGKEGBQE9NC,061771815,Reyansh Singhal,Half Yearly,2021-03-22
+8172,Closed,Citizens Financial Group,$854.21,14th,NYWNGBCCZLG,102239685,Seher Swamy,Monthly,2020-11-25
+8172,Closed,Citigroup,"$61,324.17",8th,XMHWGBUZ5S9,014222036,Khushi Tella,Yearly,2020-10-06
+8172,Active,Goldman Sachs,"$2,890.42",16th,TQPYGBM1SOB,061155428,Aarush Manne,Quarterly,2020-11-19
+8172,Active,RBC Bank,$5.47,13th,IBZWGBPC8AW,076188008,Urvi Hegde,Half Yearly,2022-06-14
+8172,Closed,UBS,"$4,463.69",8th,YAADGB2JRLN,115412240,Oorja Loke,Monthly,2021-06-07
+2072,Closed,Citizens Financial Group,"$7,974.80",4th,VHPEGBEQ6HL,075448079,Prisha Tailor,Quarterly,2022-04-27
+2072,Closed,JPMorgan Chase,$80.82,23th,PBGNGBRRVYF,075448079,Nishith Sridhar,Half Yearly,2021-01-10
+2072,Active,RBC Bank,$884.51,15th,CLPPGBT3R8M,125225980,Raunak Devan,Monthly,2021-04-06
+2072,Active,Citizens Financial Group,"$17,744.54",20th,YQQFGBNVDND,102239685,Amani Boase,Half Yearly,2022-04-30
+2072,Active,RBC Bank,$557.48,15th,ZDRXGBB3Q42,048117780,Romil Sharma,Half Yearly,2022-07-22
+9761,Closed,BankUnited,$7.28,7th,YPQLGB88Q6I,075448079,Amira Walla,Half Yearly,2021-01-03
+9761,Closed,Bank of America,"$6,190.95",9th,KRPUGBO6QKO,061155428,Anvi Mahajan,Half Yearly,2022-01-16
+4596,Active,RBC Bank,"$93,038.10",12th,MINZGBFQXDS,025099630,Kiaan Bobal,Yearly,2022-01-27
+4596,Closed,Santander Bank,$198.71,5th,CGRAGBOOOWT,066502733,Khushi Dara,Yearly,2021-11-08
+4596,Closed,Citizens Financial Group,"$22,792.65",5th,NBMBGBU90ID,075448079,Eva Guha,Yearly,2021-10-20
+4596,Active,American Express,$845.04,4th,VEKLGBBG66G,115073841,Miraan Biswas,Monthly,2022-09-24
+6104,Active,Morgan Stanley,"$71,155.22",12th,EQYXGBS0ELK,125225980,Yuvaan Tata,Half Yearly,2021-11-13
+6104,Closed,Barclays,$23.57,20th,UYKFGBV43R6,119706826,Aarav Raval,Quarterly,2022-11-16
+6104,Active,JPMorgan Chase,"$75,564.24",24th,CYCFGBHGCZG,048117780,Hrishita Shanker,Yearly,2022-10-31
+6104,Active,BankUnited,$1.80,10th,ZDDQGBTNXXV,115412240,Vivaan Viswanathan,Half Yearly,2022-02-06
+6104,Active,Goldman Sachs,"$67,170.97",23th,KGZHGBTR8XD,075448079,Divit Bhandari,Quarterly,2020-09-23
+6104,Active,Credit Suisse,$2.46,26th,QPWQGBLVX9S,125225980,Reyansh Loke,Yearly,2021-06-20
+9347,Closed,RBC Bank,$62.30,22th,GCHEGB1ID37,115073841,Devansh Deshpande,Monthly,2021-01-25
+9347,Closed,RBC Bank,$4.75,5th,HTFXGB9YIN9,061155428,Alia Goda,Quarterly,2020-12-02
+9347,Closed,Wells Fargo,"$43,252.29",5th,ORGRGB3UNIK,025099630,Rati Subramaniam,Monthly,2021-03-06
+1954,Active,Bank of America,$81.14,12th,UAFRGBMBM6T,102239685,Raunak Tata,Yearly,2022-01-21
+1954,Closed,JPMorgan Chase,$653.16,27th,FJEQGB2M9OX,125225980,Chirag Dhawan,Half Yearly,2020-09-06
+1954,Active,Wells Fargo,$49.37,24th,BLQYGB8QL0N,119706826,Siya Wason,Half Yearly,2020-10-12
+6718,Closed,Morgan Stanley,"$5,070.48",9th,FKQTGBN1OKM,111919666,Kavya Sangha,Yearly,2021-12-07
+6718,Active,BankUnited,$75.30,1st,JPTBGB4DMZ0,061155428,Jayesh Bahri,Half Yearly,2022-05-11
+6718,Active,RBC Bank,"$4,134.84",19th,CCRZGBQCB1K,011041485,Faiyaz Buch,Quarterly,2022-09-13
+6718,Active,American Express,$9.82,5th,BQTPGBV5UI4,014222036,Azad Bassi,Yearly,2021-12-24
+6718,Active,Discover Financial,"$22,739.06",13th,NACEGB9VJN4,076188008,Mohanlal Atwal,Monthly,2022-12-18
+6718,Active,Citizens Financial Group,$0.35,6th,CLYAGB2Y23M,061155428,Kiaan Swamy,Yearly,2021-08-26
+5486,Active,Santander Bank,"$9,150.67",10th,MGQSGBK93F4,111919666,Dhanush Solanki,Yearly,2021-07-18
+5486,Closed,Morgan Stanley,$8.85,28th,PJHAGB5QGII,076188008,Vivaan Deshmukh,Monthly,2021-02-23
+5486,Closed,Barclays,$2.37,20th,FWCPGB3STAY,076188008,Aarav Chopra,Half Yearly,2021-05-12
+5486,Closed,UBS,$299.96,27th,GBDRGBIYPOE,102239685,Ishita Ganesh,Yearly,2021-06-29
+5486,Closed,Morgan Stanley,$2.28,5th,CYCKGBG48YR,014222036,Samar Keer,Quarterly,2022-08-31
+9705,Active,Goldman Sachs,$24.11,16th,WJDHGBFT6B5,119706826,Adira Edwin,Quarterly,2021-03-12
+9705,Closed,American Express,$2.83,18th,LHTAGBK0NWL,115073841,Lagan Rout,Monthly,2022-07-02
+9705,Active,JPMorgan Chase,"$9,391.11",12th,LUOSGB2DPWE,061771815,Kabir Banik,Yearly,2022-05-26
+9705,Closed,Bank of America,$662.13,28th,FCNXGBBUPUP,061771815,Nitara Biswas,Half Yearly,2020-10-23
+9705,Active,Citizens Financial Group,"$35,686.01",25th,AOQIGB49SUC,102239685,Aaina Buch,Half Yearly,2021-01-15
+9705,Active,Credit Suisse,"$6,027.71",11th,UTBRGBMRRUV,048906810,Vardaniya Suresh,Monthly,2022-08-19
+9705,Active,Wells Fargo,$51.53,28th,TCGVGBAVMDW,115412240,Priyansh Keer,Monthly,2020-10-26
+1772,Closed,Citizens Financial Group,$82.87,10th,MVFHGBR8FS9,102239685,Tejas Bhatti,Yearly,2021-10-23
+1772,Active,Goldman Sachs,$46.89,7th,CIAPGB3QY1L,066502733,Jayan Vohra,Quarterly,2021-10-03
+1772,Closed,Barclays,"$16,348.52",24th,BZXHGB1NSDC,048906810,Vardaniya Wadhwa,Monthly,2022-08-07
+1820,Closed,UBS,$966.42,13th,WKUCGB9IRF3,048906810,Emir Ramaswamy,Monthly,2022-02-24
+1820,Closed,RBC Bank,$609.11,25th,LAVBGBN5J6N,119706826,Stuvan Kade,Yearly,2022-05-25
+1820,Active,Santander Bank,$27.87,25th,UDOXGB3LFO2,102239685,Biju Kapoor,Quarterly,2022-01-15
+1820,Closed,UBS,$9.93,23th,TJSKGB3E0HM,048906810,Nirvi Kara,Half Yearly,2021-01-05
+3042,Active,Credit Suisse,"$8,447.95",4th,GEOQGB7FRNF,014222036,Anahita Chatterjee,Yearly,2022-12-03
+3042,Closed,Barclays,"$65,365.41",22th,KBOJGBMO69W,014222036,Emir Kale,Yearly,2021-12-28
+6537,Active,HSBC Bank USA,$528.24,11th,XVAOGBK321W,011041485,Kismat Kakar,Half Yearly,2022-03-15
+6537,Closed,BankUnited,$21.84,13th,NEXFGBX1CPC,061155428,Yashvi Sharma,Quarterly,2022-08-18
+6537,Closed,JPMorgan Chase,"$1,953.13",8th,GUAEGBINGM9,011041485,Pari Shankar,Half Yearly,2022-06-30
+6537,Closed,Citigroup,$9.05,27th,PYYGGBPEOGK,048117780,Taran Toor,Quarterly,2021-11-18
+6537,Active,Credit Suisse,"$7,539.15",14th,ZDOXGBCEXLQ,076188008,Samarth Zachariah,Monthly,2021-05-24
+5946,Closed,Barclays,$190.78,1st,PWPMGB7IO3Y,069613807,Jayesh Raj,Quarterly,2022-04-12
+5946,Active,Bank of America,$61.17,13th,TJXWGBXKJYO,115073841,Manikya Kakar,Monthly,2021-04-11
+6124,Active,Morgan Stanley,$5.26,14th,JLGWGBHMHNB,115073841,Tara Sem,Monthly,2021-05-14
+6124,Active,Barclays,"$23,554.24",7th,VYARGBQ81H5,061155428,Abram Bajwa,Half Yearly,2022-09-21
+6124,Closed,Barclays,$9.29,13th,YVCDGB0AX33,066502733,Sumer Chaudhari,Monthly,2021-11-27
+6124,Active,RBC Bank,$2.55,25th,FDJGGB129EC,066502733,Shanaya Handa,Monthly,2021-05-04
+6124,Active,Citizens Financial Group,$817.02,2nd,RNTOGBT8OSE,125225980,Mannat Talwar,Half Yearly,2022-02-21
+6124,Closed,Credit Suisse,$883.62,20th,VZMEGBTBG5E,111919666,Zeeshan Date,Monthly,2021-12-09
+6124,Active,JPMorgan Chase,"$2,565.28",9th,ZQIIGBBT7KR,103019736,Akarsh Divan,Quarterly,2022-09-07
+5633,Active,RBC Bank,$9.14,23th,LHIVGB1X68K,102239685,Miraya Zacharia,Quarterly,2022-11-25
+5633,Closed,BankUnited,$4.53,16th,GFIZGBOGMX4,075448079,Mehul Cherian,Yearly,2022-03-26
+5633,Active,BankUnited,$1.75,4th,QZDGGBKQVQ0,111919666,Manikya Sengupta,Half Yearly,2021-06-27
+5633,Closed,Wells Fargo,"$3,894.27",17th,TEXYGBXVXF7,069613807,Ishita Gill,Yearly,2020-09-18
+5633,Active,Wells Fargo,"$11,282.89",15th,NBDTGBZ49CD,125225980,Riya Tata,Monthly,2021-07-12
+2072,Closed,Credit Suisse,"$80,181.61",18th,YNIXGB28O7T,061771815,Amira Chaudhari,Yearly,2021-12-30
+2072,Active,RBC Bank,$5.79,13th,ZPGEGB0VWC8,048117780,Hridaan Bhasin,Quarterly,2021-03-08
+2072,Closed,JPMorgan Chase,"$7,975.97",25th,MVHIGB2K1SK,061771815,Jivika Bassi,Quarterly,2021-04-03
+2072,Active,Discover Financial,"$22,838.32",25th,HSJQGBM33BF,115412240,Farhan Sama,Yearly,2021-10-23
+2072,Closed,JPMorgan Chase,"$11,880.78",15th,ACFPGBUANWH,102239685,Kashvi Tailor,Half Yearly,2021-08-17
+504,Closed,American Express,$149.43,21th,RDAZGBNLVO9,011041485,Farhan Bedi,Monthly,2021-07-15
+504,Active,Capital One,$94.12,22th,DEKGGB345M4,103019736,Alisha Sachdeva,Half Yearly,2022-06-07
+504,Active,BankUnited,"$45,495.67",4th,KDVYGBE9HYJ,125225980,Nirvi Som,Quarterly,2020-11-22
+9347,Closed,Citizens Financial Group,$32.25,17th,SQBMGB8LJPY,103019736,Kashvi Batra,Monthly,2022-07-09
+9347,Closed,Bank of America,$9.51,18th,JQJNGBR04J9,025099630,Inaaya  Din,Quarterly,2022-06-16
+9347,Active,HSBC Bank USA,$925.94,23th,LQLYGBRU861,102239685,Fateh Thaker,Yearly,2021-03-01
+9347,Closed,BankUnited,$17.46,28th,LHYUGBMBFZD,061155428,Anvi Swaminathan,Half Yearly,2022-12-20
+9347,Closed,American Express,"$7,057.82",20th,WSRJGB422GJ,035139823,Vedika Gade,Quarterly,2022-11-09
+9347,Active,HSBC Bank USA,"$5,601.51",19th,ITLGGBOJ7YC,025099630,Ivana Goyal,Monthly,2021-05-18
+9347,Active,Morgan Stanley,$6.18,14th,JDNPGBYG3TD,111919666,Nitara Thaker,Monthly,2022-01-11
+6537,Active,Barclays,"$12,560.36",15th,FVMYGBOO6B5,025099630,Lavanya Jain,Quarterly,2021-07-05
+4444,Active,Morgan Stanley,"$3,074.79",22th,SQRBGBFV1KS,061771815,Ivana Baria,Quarterly,2022-07-31
+4444,Closed,UBS,$932.70,11th,KFSDGBX170J,119706826,Riaan De,Half Yearly,2021-09-12
+4444,Closed,UBS,"$32,969.59",28th,IAIAGB90NL9,103019736,Kimaya De,Monthly,2022-09-04
+4444,Closed,Discover Financial,$4.49,15th,ITKAGBBU0DB,014222036,Prisha Chatterjee,Monthly,2022-08-30
+4444,Closed,Citizens Financial Group,"$2,832.94",3rd,ZHVSGB2I87C,111919666,Rati Gala,Yearly,2021-08-29
+4444,Active,Discover Financial,"$7,952.51",5th,FLRGGB5OJFW,069613807,Anaya Srivastava,Quarterly,2021-07-05
+186,Closed,RBC Bank,"$5,434.51",18th,UORFGBF2K4N,035139823,Anay Chanda,Monthly,2022-04-25
+6718,Active,Credit Suisse,"$42,855.88",3rd,IJPAGB6Y5KM,025099630,Ishita Dave,Yearly,2022-01-05
+6718,Closed,JPMorgan Chase,"$98,639.34",24th,LDZVGBLCCMQ,115073841,Kavya Tella,Half Yearly,2022-12-27
+6718,Closed,American Express,$9.00,1st,WDLXGBFVKXG,061155428,Vaibhav Johal,Monthly,2021-10-13
+6718,Closed,RBC Bank,$6.55,25th,YGBPGB9FIEO,040997762,Sumer Mangal,Yearly,2021-11-24
+6718,Active,UBS,$4.02,26th,CFHLGBKW9OQ,066502733,Pari Vaidya,Half Yearly,2022-11-01
+6718,Active,Capital One,"$49,542.16",8th,RWVGGBIDOF8,103019736,Shlok Ramakrishnan,Quarterly,2021-12-14
+8323,Closed,Citigroup,$48.22,21th,SPSWGB2PH7I,076188008,Anay Comar,Half Yearly,2021-04-23
+8323,Closed,Bank of America,"$6,618.21",19th,PGRHGBL633B,040997762,Jayant Datta,Yearly,2020-12-13
+8323,Active,Goldman Sachs,"$7,051.46",19th,RDNAGBBDCW0,102239685,Rhea Chokshi,Monthly,2021-10-01
+8323,Closed,HSBC Bank USA,$4.03,16th,ISSGGBX9S1M,048117780,Suhana Ramachandran,Monthly,2020-09-09
+9761,Active,RBC Bank,$2.79,9th,FSIAGB58AS7,048906810,Yashvi Salvi,Monthly,2022-03-17
+9761,Active,Barclays,$42.60,13th,WBADGB0JN7V,066502733,Raunak Rau,Half Yearly,2021-05-16
+9761,Active,Bank of America,"$71,956.25",4th,HCSRGBROGE8,025099630,Aarush Divan,Monthly,2021-06-08
+9761,Active,Santander Bank,"$10,040.90",12th,MJNLGBWAZFS,035139823,Indranil Gill,Quarterly,2021-11-21
+461,Active,UBS,$25.07,9th,CGSJGBPD2LL,076188008,Shayak Gandhi,Monthly,2022-06-15
+461,Closed,Wells Fargo,"$3,617.88",19th,KEKYGBOJSME,061155428,Yakshit Bhasin,Quarterly,2022-02-15
+461,Closed,RBC Bank,$8.06,4th,QHBKGB8GU78,103019736,Kiara Bhatti,Half Yearly,2020-10-15
+461,Active,Citigroup,"$82,657.10",17th,IRAXGB1RH32,102239685,Dhanush Mani,Monthly,2020-09-12
+6949,Active,Discover Financial,$819.11,18th,JZIAGBPXVFZ,125225980,Jhanvi Mani,Monthly,2022-01-30
+6949,Active,UBS,$554.35,28th,WPVGGBA0Q66,103019736,Tejas Amble,Half Yearly,2022-08-17
+6949,Active,Morgan Stanley,$1.54,7th,LGTHGB97FGH,115412240,Divij Mangal,Half Yearly,2020-09-03
+6949,Closed,Santander Bank,"$5,044.62",7th,DTJFGBY9ANI,069613807,Indranil Bumb,Half Yearly,2022-10-26
+6949,Active,UBS,"$7,885.05",15th,PQMWGBCOK7L,115073841,Chirag Rajagopalan,Monthly,2021-11-25
+7497,Active,Capital One,"$78,628.55",26th,XRQUGBZ22ES,119706826,Aaryahi Balakrishnan,Quarterly,2022-06-14
+9092,Closed,BankUnited,$17.83,6th,GMPVGBR9MC9,048906810,Rohan Khalsa,Half Yearly,2021-12-24
+9092,Active,RBC Bank,"$19,118.03",10th,NQQSGB3PZTL,011041485,Jiya Barad,Half Yearly,2022-06-30
+9092,Closed,Wells Fargo,$913.67,8th,JUTXGBEV30C,115073841,Samiha Som,Half Yearly,2021-01-19
+9092,Closed,Citigroup,"$2,230.12",21th,PVDSGB5PTTW,115073841,Charvi Dey,Monthly,2021-07-19
+9092,Active,Discover Financial,"$73,166.19",14th,QISLGBPK03W,115412240,Shlok Kannan,Quarterly,2022-08-10
+9092,Closed,HSBC Bank USA,$4.87,22th,KRWWGBMZW4R,076188008,Aarna Lanka,Quarterly,2022-05-23
+4700,Active,Santander Bank,$3.94,11th,LZFGGBGT77J,102239685,Darshit Dubey,Yearly,2021-06-14
+4700,Closed,Barclays,$394.88,26th,MNQKGB2S6SO,111919666,Seher Krish,Half Yearly,2021-06-13
+4700,Closed,Santander Bank,$4.01,18th,PIMWGBBU93T,119706826,Krish Bera,Quarterly,2020-11-07
+838,Active,Barclays,"$28,490.29",5th,AUSZGBMP7MW,040997762,Arnav Saxena,Yearly,2021-11-22
+838,Active,Citigroup,"$3,359.66",15th,EGQOGBTC8BM,048117780,Raghav Ramachandran,Half Yearly,2021-09-18
+838,Closed,Capital One,"$8,931.86",1st,PEYAGBOY3W3,119706826,Yuvaan Mangat,Half Yearly,2020-11-12
+838,Closed,Wells Fargo,"$4,354.26",25th,AVCFGBCKCIQ,040997762,Sana Dhaliwal,Yearly,2020-12-25
+838,Active,Morgan Stanley,"$8,546.86",12th,MXDLGBF1OKU,061771815,Azad Bhatnagar,Yearly,2022-12-23
+109,Active,Barclays,$652.28,26th,SNVCGBDB40R,115412240,Kabir Bhandari,Quarterly,2021-09-24
+109,Active,Goldman Sachs,"$3,642.59",5th,EXILGBU5NBQ,069613807,Yuvraj  Gola,Yearly,2021-04-11
+109,Closed,Barclays,"$58,389.83",6th,JFQTGBL38XN,115073841,Dhanush Ramaswamy,Quarterly,2020-09-14
+109,Active,Capital One,"$92,136.45",18th,NKMGGBTPPRZ,075448079,Miraya Wali,Quarterly,2021-05-01
+838,Active,Bank of America,"$85,521.99",13th,ELSUGB4CN9R,076188008,Kavya Bains,Yearly,2021-12-31
+838,Active,RBC Bank,$57.46,18th,NNMZGBRZ365,069613807,Hansh Hegde,Half Yearly,2022-12-15
+838,Active,Morgan Stanley,"$5,350.31",17th,XTPNGB2VZY5,115073841,Anahi Shanker,Yearly,2022-11-24
+838,Closed,Citizens Financial Group,$99.66,16th,HCWJGBWNP2H,076188008,Devansh Thakur,Half Yearly,2022-03-10
+838,Active,BankUnited,$40.73,4th,RXTTGBMGWI1,115073841,Shray Bir,Yearly,2021-12-21
+838,Closed,Citizens Financial Group,$6.93,5th,HSUEGBQ6RDS,061771815,Shamik Wadhwa,Half Yearly,2021-07-11
+838,Active,American Express,"$9,449.38",28th,VHQGGB8D12O,014222036,Prerak Badal,Monthly,2021-04-05
+4964,Active,Barclays,$87.56,12th,SZKBGBMBOHY,115412240,Prisha Grover,Half Yearly,2021-12-10
+4964,Active,Discover Financial,$743.58,22th,KPXGGBK5CEG,103019736,Anvi Aurora,Yearly,2021-12-09
+4964,Active,Goldman Sachs,"$18,585.24",12th,TTTYGBBDFCZ,115073841,Kiaan Jha,Half Yearly,2021-06-10
+4964,Active,BankUnited,$72.67,12th,IQMTGBGVJ87,102239685,Siya Soni,Yearly,2022-05-20
+4964,Active,Capital One,$448.87,27th,GTBVGB8K7Q8,035139823,Vidur Doshi,Quarterly,2021-09-18
+4964,Active,JPMorgan Chase,"$2,323.61",10th,NGEJGBU7OSR,025099630,Yasmin Khurana,Yearly,2021-11-23
+4964,Closed,Goldman Sachs,$657.25,17th,DKTKGB6COS0,014222036,Stuvan Dayal,Half Yearly,2021-07-25
+8172,Closed,American Express,$66.50,5th,EKGDGB8O0WJ,040997762,Raunak Ben,Monthly,2021-08-17
+8172,Closed,RBC Bank,"$4,122.92",26th,VWKUGBMMVZO,102239685,Rania Tailor,Quarterly,2022-01-27
+8172,Closed,American Express,$100.20,20th,IVBHGBP9UX1,125225980,Mishti Rana,Half Yearly,2022-01-07
+8172,Closed,Santander Bank,"$29,169.54",17th,AEVSGBZUGDC,115412240,Bhavin Walla,Yearly,2021-07-02
+8172,Closed,BankUnited,"$43,638.34",25th,BOIMGB9K9K6,048117780,Shalv Bawa,Monthly,2020-11-27
+8172,Closed,Morgan Stanley,$114.38,18th,UPSXGBNI81W,048906810,Sana Zacharia,Monthly,2021-09-28
+8172,Active,BankUnited,$31.39,25th,VVJQGB39U9Z,111919666,Priyansh Vasa,Quarterly,2021-04-02
+9951,Active,Morgan Stanley,"$67,811.74",1st,SHNZGB7FD3N,048906810,Tarini Andra,Half Yearly,2021-05-24
+9951,Closed,UBS,"$26,544.65",20th,STHWGBFLREH,061771815,Anay Sethi,Monthly,2022-07-12
+9951,Active,Santander Bank,$3.36,6th,JCNTGBI0WCG,014222036,Nirvi Borra,Yearly,2020-09-02
+9951,Active,JPMorgan Chase,$50.90,27th,AEWQGBPK047,102239685,Pihu Aurora,Monthly,2022-10-05
+9951,Active,JPMorgan Chase,"$7,736.04",28th,WDIJGBRZQE1,066502733,Krish Lal,Monthly,2022-11-01
+291,Active,HSBC Bank USA,$28.47,19th,USOBGBPFL0R,025099630,Gokul Bala,Half Yearly,2021-10-17
+291,Active,Morgan Stanley,"$51,736.71",21th,YPLGGBTZEO5,011041485,Ranbir Mani,Quarterly,2021-03-28
+291,Closed,Morgan Stanley,"$6,694.44",28th,ECUCGBFXWWO,103019736,Zeeshan Cheema,Monthly,2021-10-21
+291,Closed,Credit Suisse,"$8,331.91",8th,PCHYGBIEOIS,040997762,Nehmat Samra,Half Yearly,2022-11-12
+291,Active,Goldman Sachs,$23.84,1st,OPIKGB7S0TF,076188008,Anaya Halder,Quarterly,2021-10-09
+291,Closed,BankUnited,$69.03,2nd,GROGGBT40C2,048117780,Aarav Bains,Half Yearly,2021-03-23
+291,Active,RBC Bank,"$5,040.01",14th,ONZEGBU24QM,048906810,Madhav Behl,Half Yearly,2021-06-01
+8595,Closed,Discover Financial,"$55,525.79",9th,BDZHGBTHPMK,025099630,Manjari Ram,Yearly,2021-09-27
+8595,Closed,Morgan Stanley,"$29,544.88",18th,JMTSGBT9ZLW,111919666,Nishith Sarma,Quarterly,2021-01-13
+8595,Closed,Wells Fargo,$590.92,23th,ELTEGBT55HH,048117780,Hrishita Mane,Monthly,2022-01-23
+8595,Active,BankUnited,"$38,094.60",13th,GMVXGBLJF7P,075448079,Shayak Srivastava,Monthly,2022-08-27
+468,Active,Wells Fargo,"$10,267.56",25th,GUDHGBVGTK5,115073841,Lakshay Korpal,Monthly,2021-07-25
+468,Closed,UBS,"$55,246.72",5th,MEYCGBH2PGK,125225980,Himmat Mammen,Quarterly,2022-01-12
+468,Closed,BankUnited,"$54,578.25",4th,QAXTGBSEGF5,103019736,Rasha Subramanian,Yearly,2021-12-21
+468,Active,Citigroup,$3.62,14th,XFLJGBMJITP,076188008,Pranay Chanda,Monthly,2021-07-20
+468,Closed,JPMorgan Chase,"$9,853.37",13th,GDFEGBAS9TL,014222036,Badal Majumdar,Monthly,2021-05-27
+468,Closed,Bank of America,$882.80,26th,AEVDGBPO6WT,061155428,Rati Shetty,Yearly,2021-06-16
+468,Closed,JPMorgan Chase,"$54,529.93",16th,WVKRGB5T87E,061771815,Hazel Badal,Quarterly,2022-09-20
+2053,Closed,Goldman Sachs,$64.61,19th,NOQZGB1YT0A,035139823,Saanvi Venkatesh,Monthly,2021-12-05
+2053,Closed,Goldman Sachs,"$46,520.92",16th,GSNHGBE6FDC,014222036,Aaryahi Agrawal,Monthly,2022-11-28
+2053,Closed,American Express,$98.22,10th,VMVHGBIWSPS,115073841,Damini Sha,Half Yearly,2021-10-22
+2053,Active,Morgan Stanley,$323.40,9th,ANMVGBYR003,011041485,Amani Kara,Quarterly,2022-04-21
+2053,Closed,Citigroup,$757.04,9th,MXCQGB92LM4,040997762,Jivika Borah,Quarterly,2022-09-03
+3330,Active,Citigroup,$6.78,22th,STKDGBK4SVW,125225980,Kanav Sridhar,Yearly,2022-03-01
+3330,Active,Citigroup,"$63,060.77",16th,WGTFGBTEA5N,111919666,Tara Basak,Monthly,2021-07-17
+3330,Closed,UBS,"$60,738.19",16th,SJPLGB9G4LA,014222036,Farhan Guha,Quarterly,2022-09-25
+3330,Active,American Express,"$68,316.51",18th,MAPZGB8SECR,014222036,Ira Chana,Quarterly,2021-06-12
+3330,Closed,Santander Bank,$166.74,17th,ENEAGB1PTUD,069613807,Hunar Kulkarni,Yearly,2021-08-13
+3330,Active,Discover Financial,$8.69,3rd,QGFQGBLCNEW,102239685,Jayant Grewal,Half Yearly,2020-09-19
+3330,Closed,HSBC Bank USA,"$31,059.54",3rd,METOGBSBTWI,069613807,Nayantara Hans,Quarterly,2021-05-22
+4185,Active,Goldman Sachs,$682.35,2nd,YRTIGBSJJ77,014222036,Madhup Sharma,Monthly,2021-09-02
+5686,Active,HSBC Bank USA,$3.14,2nd,DYUQGB8RYNN,040997762,Ira Bawa,Monthly,2021-01-18
+5686,Closed,Discover Financial,$807.48,24th,TRINGBLKB9J,115073841,Alisha Kibe,Half Yearly,2021-11-12
+5686,Closed,BankUnited,"$2,369.91",13th,XEDCGBAMOP2,061771815,Mahika Dube,Yearly,2022-02-28
+5686,Closed,UBS,$69.40,26th,KDXLGBMI20N,061155428,Anvi Vig,Quarterly,2022-12-17
+5686,Closed,Barclays,$25.25,12th,BOKZGB5DZ0I,076188008,Urvi Srinivasan,Monthly,2022-02-13
+5686,Closed,BankUnited,$782.79,11th,XUYFGBDK2J5,102239685,Hazel Banerjee,Monthly,2022-02-21
+3525,Closed,Bank of America,$2.99,12th,SCIEGB7I04Q,075448079,Sahil Tak,Half Yearly,2021-06-28
+7081,Closed,JPMorgan Chase,"$8,421.09",24th,AXAMGB466VT,075448079,Pihu Kalita,Quarterly,2021-03-21
+7081,Closed,Barclays,$51.12,24th,JLQVGBJGK3U,011041485,Hansh Sama,Yearly,2022-03-19
+7081,Closed,Credit Suisse,"$10,242.06",12th,XDJNGB489W8,102239685,Kimaya Handa,Half Yearly,2021-12-07
+982,Closed,HSBC Bank USA,$353.29,13th,IWUTGBQKOOC,035139823,Yakshit Bhavsar,Yearly,2021-05-05
+982,Active,HSBC Bank USA,"$27,016.74",8th,RVMJGBRUM7Y,115412240,Lakshit Kale,Quarterly,2021-08-09
+982,Active,RBC Bank,$81.42,12th,QSXCGB1ROCY,061771815,Gokul Handa,Half Yearly,2023-01-09
+982,Closed,Goldman Sachs,$67.71,13th,MNDQGBN2B3B,069613807,Biju Wali,Quarterly,2022-09-16
+982,Active,BankUnited,$906.82,10th,TVACGBIFRJ8,061155428,Madhav Soni,Half Yearly,2021-09-23
+982,Closed,RBC Bank,$79.23,8th,JYDQGB9ZDIU,066502733,Anika Khatri,Quarterly,2021-07-30
+4636,Closed,Wells Fargo,$89.37,16th,DSWSGBGJT1H,075448079,Jivika Lata,Half Yearly,2022-02-06
+4636,Active,Discover Financial,"$8,245.88",7th,ZIOYGB6SVGV,025099630,Hansh Gole,Quarterly,2022-04-25
+4791,Active,BankUnited,"$8,701.38",2nd,YPOYGBATR5X,069613807,Taimur Bhagat,Yearly,2022-12-31
+4791,Closed,American Express,$8.82,7th,YQFTGB54RCF,111919666,Vihaan Buch,Yearly,2021-07-29
+4791,Active,UBS,"$4,007.14",7th,NNFLGB1RRR7,076188008,Samiha Bala,Half Yearly,2020-10-22
+4791,Closed,RBC Bank,"$2,751.83",20th,ABAIGBFKLLW,115412240,Kiara Sunder,Yearly,2020-10-16
+4791,Closed,HSBC Bank USA,"$50,475.04",27th,KKUQGB60VPT,040997762,Ryan Dalal,Monthly,2020-09-28
+4791,Closed,JPMorgan Chase,$943.68,6th,YXDTGBGOATI,048906810,Darshit Sharma,Monthly,2021-01-31
+504,Closed,Morgan Stanley,"$1,787.77",25th,VXOUGB31N7Y,115412240,Piya Sandhu,Yearly,2022-04-10
+1584,Closed,Barclays,$604.91,26th,PLXRGBNVFB5,040997762,Nitya Chand,Half Yearly,2021-04-05
+1584,Closed,Citigroup,"$50,462.39",21th,DEBQGB5TQKI,115073841,Drishya Mall,Monthly,2022-09-07
+1584,Closed,Citigroup,"$9,696.48",3rd,JBSWGBUYQ9K,061155428,Shaan Kothari,Quarterly,2021-08-26
+3394,Active,Wells Fargo,$4.00,27th,UQYLGBHOE79,048906810,Vidur Gupta,Monthly,2022-02-12
+2608,Closed,Barclays,$30.65,5th,YGGKGB20GLH,048117780,Mishti Amble,Yearly,2022-08-28
+2608,Active,Goldman Sachs,$77.57,24th,DAQBGBXF61M,075448079,Oorja Chauhan,Quarterly,2022-06-25
+2608,Active,Goldman Sachs,$89.33,20th,UTMCGBKY4LQ,035139823,Vidur Sarma,Half Yearly,2022-03-13
+2608,Closed,Barclays,"$21,318.35",9th,DURYGBFKEED,061155428,Aarna Dora,Monthly,2021-10-16
+2608,Closed,Santander Bank,"$7,050.23",7th,AORMGBQ903Q,115073841,Badal Chatterjee,Half Yearly,2022-09-08
+2608,Active,Credit Suisse,$3.64,3rd,BDONGBAUQJ3,066502733,Alisha Bora,Quarterly,2021-01-05
+2608,Active,Capital One,"$43,649.48",5th,LUSVGBTHRRU,069613807,Samaira Date,Monthly,2020-12-02
+3950,Active,RBC Bank,$6.91,5th,CVLSGBJPW44,069613807,Shayak Bumb,Half Yearly,2021-05-01
+3950,Active,Goldman Sachs,"$3,852.32",16th,YGWEGB0XNHR,011041485,Ritvik Kashyap,Quarterly,2021-09-13
+9457,Active,American Express,"$87,861.72",18th,CNRAGBOWZZP,014222036,Elakshi Ramesh,Monthly,2022-05-10
+9457,Closed,Wells Fargo,$7.12,19th,XYNIGB5XLB9,076188008,Himmat Khurana,Quarterly,2022-08-07
+9457,Closed,UBS,$21.82,10th,XKLJGBQXSFN,075448079,Hansh Thakkar,Yearly,2022-10-19
+9457,Closed,Credit Suisse,"$6,158.81",7th,BOHTGBACG1H,014222036,Navya Arya,Quarterly,2023-01-07
+9457,Active,Santander Bank,"$8,662.35",10th,IKZWGBUU8XA,119706826,Dharmajan Agate,Yearly,2020-11-08
+9457,Closed,UBS,$93.97,18th,LJXHGBLIA71,061155428,Keya Lalla,Half Yearly,2021-04-01
+4097,Active,Citizens Financial Group,$3.36,18th,CNQZGBB0GX2,061155428,Jayesh Ghose,Yearly,2022-11-03
+4097,Active,BankUnited,$783.26,5th,ZEQHGBF7LWM,103019736,Hridaan Bandi,Quarterly,2022-12-01
+4097,Active,Bank of America,"$86,253.54",25th,BSEYGB3C2L4,011041485,Amani Tella,Yearly,2022-12-24
+4097,Closed,UBS,"$6,495.37",23th,DUJDGBJKW47,048906810,Pihu Swamy,Quarterly,2022-04-23
+4097,Closed,Citizens Financial Group,"$23,250.07",23th,UTYTGB4Z538,025099630,Gatik Kanda,Yearly,2021-12-15
+4097,Closed,Citizens Financial Group,"$8,361.56",18th,EHVVGBIVDK1,111919666,Ira Wadhwa,Monthly,2020-09-22
+2065,Closed,Wells Fargo,"$66,969.73",17th,DZAUGBLHO40,111919666,Damini Varma,Quarterly,2022-12-26
+5371,Active,Barclays,$0.93,8th,OGBZGB9BJCE,119706826,Nirvaan Ganguly,Yearly,2021-04-09
+9386,Active,Credit Suisse,$570.49,17th,UEOWGBFE4XQ,069613807,Jayan Srivastava,Yearly,2022-06-24
+9386,Active,Citigroup,$93.32,5th,MQPFGBZ3IZ3,061155428,Dhruv Sheth,Yearly,2022-02-24
+9386,Active,American Express,$70.75,20th,HYJZGBHW9K6,040997762,Arhaan Ray,Half Yearly,2023-01-06
+9386,Active,Wells Fargo,$451.68,7th,MKHJGB7JCA6,025099630,Vedika Ahluwalia,Yearly,2023-01-02
+486,Active,Discover Financial,$0.85,8th,QQLWGBTL8G9,048906810,Reyansh Srinivasan,Monthly,2022-08-20
+486,Closed,American Express,$0.40,15th,VSDNGBUR140,014222036,Yashvi Choudhury,Yearly,2021-07-01
+486,Closed,BankUnited,$8.23,16th,KAYLGB5SXZV,125225980,Kiara Handa,Half Yearly,2022-02-27
+486,Active,American Express,"$8,366.08",3rd,OQFKGBFXJVH,048906810,Mamooty Dua,Monthly,2021-10-29
+486,Active,JPMorgan Chase,"$49,136.45",20th,OUIVGBNSG8E,076188008,Madhav Kaul,Quarterly,2021-10-01
+486,Active,Goldman Sachs,"$83,449.48",9th,JYZWGBYB15L,025099630,Azad Madan,Quarterly,2021-02-17
+4753,Active,Goldman Sachs,"$21,098.95",4th,MSDLGBFXO7D,076188008,Zain Basak,Half Yearly,2022-04-29
+4753,Active,BankUnited,"$96,879.04",17th,MMMSGB7LXM7,066502733,Arhaan Sharma,Yearly,2022-02-28
+4753,Closed,UBS,$22.07,11th,MYYPGB02PJ1,035139823,Aaina Shah,Yearly,2020-10-16
+4753,Closed,Goldman Sachs,$86.95,11th,BMLSGB8LNXG,035139823,Elakshi Kashyap,Yearly,2022-11-10
+9386,Active,Discover Financial,$88.42,3rd,PJZUGBNTANN,048906810,Rohan Lanka,Quarterly,2021-09-05
+6967,Active,RBC Bank,"$7,072.03",5th,KMQJGB6Y91R,075448079,Pihu Zachariah,Monthly,2022-11-10
+6967,Closed,Santander Bank,$5.79,15th,IZVVGBSJFDX,011041485,Ela Jaggi,Half Yearly,2022-02-17
+6967,Closed,American Express,"$55,944.72",28th,KLJQGB5MK3Q,048906810,Suhana Sarkar,Monthly,2022-03-12
+6967,Active,Wells Fargo,$2.49,18th,AFAKGBYD3TH,102239685,Dishani Yadav,Monthly,2021-02-06
+6967,Active,Morgan Stanley,$379.99,14th,WMFWGBT9EU4,061155428,Armaan Thakkar,Yearly,2021-06-09
+1666,Active,Citigroup,$0.05,27th,OWQLGBB62S0,061155428,Darshit Johal,Yearly,2021-04-25
+1666,Active,Discover Financial,$883.82,9th,XOAPGBA6938,115412240,Uthkarsh Barad,Quarterly,2021-06-13
+838,Active,Credit Suisse,"$63,482.41",1st,IDDYGBC76TL,103019736,Diya Choudhry,Quarterly,2022-12-01
+838,Active,Barclays,"$94,858.46",8th,IREWGBWVL4H,025099630,Yasmin Bhagat,Quarterly,2022-05-14
+4097,Active,Santander Bank,"$9,562.96",12th,SKFCGBDDZV9,048906810,Jhanvi Din,Quarterly,2022-04-27
+4097,Active,RBC Bank,"$6,093.90",11th,KXMFGBQVU0S,061771815,Prisha Reddy,Yearly,2021-02-03
+4097,Active,Bank of America,$957.90,9th,DYZTGBQJNNU,035139823,Kiara Lad,Half Yearly,2022-12-17
+4097,Closed,Citigroup,$2.68,21th,QWZQGBS1Y5M,076188008,Badal Vasa,Monthly,2022-03-23
+4097,Active,Goldman Sachs,$65.64,14th,ADQXGB8XY4Z,061155428,Lakshit Mahajan,Half Yearly,2021-08-20
+4097,Closed,Discover Financial,"$4,068.47",13th,SNLBGB7MASI,103019736,Madhav Kuruvilla,Yearly,2021-04-19
+4097,Closed,Bank of America,"$7,305.03",1st,EBMXGB5OPDW,061771815,Nitya Arora,Quarterly,2021-11-28
+9818,Closed,Santander Bank,$5.01,5th,YTIFGBD3RAH,011041485,Bhavin Behl,Quarterly,2022-11-05
+9818,Closed,Barclays,$0.83,15th,PQPVGBALYXA,048906810,Indrajit Roy,Quarterly,2022-02-25
+9818,Active,Santander Bank,$34.99,1st,XMXAGBAFXKK,040997762,Drishya Sura,Monthly,2020-10-06
+9818,Closed,Capital One,"$7,196.93",13th,SNBCGB7BCLE,025099630,Nirvaan Venkataraman,Half Yearly,2022-05-01
+9818,Active,Citigroup,"$84,383.43",21th,VUBOGB0RDID,048117780,Kiaan Sagar,Monthly,2022-08-01
+9818,Closed,UBS,"$97,481.42",15th,YWFQGBF80RY,111919666,Kismat Tandon,Yearly,2020-11-23
+2461,Closed,Goldman Sachs,$62.78,11th,VTPEGBYR3GP,119706826,Neelofar Lalla,Quarterly,2021-03-12
+2461,Active,Credit Suisse,$59.94,9th,FNOYGBFDDXU,115073841,Rhea Kulkarni,Half Yearly,2020-11-06
+2461,Closed,Santander Bank,"$69,657.88",23th,KBGTGB3PVR2,048117780,Nitya Varty,Yearly,2022-09-15
+2461,Closed,Morgan Stanley,$1.83,23th,SMVBGB4UEDS,048906810,Aayush Venkataraman,Quarterly,2021-11-05
+2461,Closed,JPMorgan Chase,$85.47,28th,OAMZGB4PCO0,125225980,Lakshit Dara,Monthly,2022-02-19
+2461,Closed,American Express,$307.71,27th,BIGIGB05RPJ,025099630,Rati Borde,Quarterly,2021-07-24
+613,Closed,UBS,"$6,933.11",14th,UYRWGBNQFX6,119706826,Aarav Ratti,Yearly,2021-05-21
+613,Closed,RBC Bank,$190.73,12th,TCYUGB1WN96,076188008,Manjari Bassi,Quarterly,2021-08-15
+613,Active,RBC Bank,"$13,826.92",19th,XIHWGBT3QRD,069613807,Ivana Handa,Monthly,2020-10-13
+9818,Closed,Credit Suisse,"$1,172.59",8th,VTBUGB3SY96,014222036,Kashvi Rastogi,Monthly,2022-01-26
+9092,Active,Santander Bank,"$29,888.34",1st,WKGVGBT76UG,125225980,Riaan Edwin,Quarterly,2021-01-01
+9092,Closed,BankUnited,$415.72,5th,OJUDGBVAHZC,125225980,Rania Subramanian,Half Yearly,2021-01-20
+9092,Active,Wells Fargo,"$2,666.93",1st,MIPZGBYK4AJ,111919666,Aarush Tata,Yearly,2020-10-20
+9092,Closed,HSBC Bank USA,$460.81,3rd,ZEMFGBG1MEV,035139823,Taimur Mahajan,Half Yearly,2021-03-11
+4645,Active,JPMorgan Chase,$24.34,18th,LGCMGB1VIGZ,076188008,Raunak Sha,Monthly,2022-08-27
+4645,Closed,Wells Fargo,$253.71,4th,TZHAGBFQAHW,119706826,Eva Halder,Quarterly,2020-09-30
+4645,Closed,HSBC Bank USA,$51.52,17th,LEUWGBQIZU2,069613807,Vidur Suresh,Monthly,2022-06-20
+4645,Active,American Express,"$1,011.25",25th,OWNIGBC2WDS,025099630,Amira Khatri,Quarterly,2022-02-14
+4645,Active,Capital One,"$1,001.54",10th,ONDRGBCH4W9,048906810,Miraan Mandal,Yearly,2021-11-12
+5917,Active,Santander Bank,$323.45,15th,MUQNGBWDSW5,061155428,Nitya Rastogi,Yearly,2022-03-13
+5917,Closed,Morgan Stanley,$4.90,23th,JQDEGB4CMG3,115073841,Pari Randhawa,Monthly,2022-01-27
+7471,Active,Capital One,"$37,249.59",3rd,WBLYGBWR6JJ,014222036,Nishith Borah,Quarterly,2020-10-04
+9806,Closed,BankUnited,"$23,434.71",14th,CWENGBDM875,115073841,Fateh Kumer,Quarterly,2022-08-04
+9806,Active,UBS,$586.91,21th,YDQIGBA4TQN,061155428,Shayak Hari,Half Yearly,2021-04-24
+9806,Closed,Morgan Stanley,$8.49,26th,QUSNGB40K8N,048117780,Diya Joshi,Half Yearly,2020-10-19
+5633,Closed,Santander Bank,"$82,857.30",11th,IWJXGBJJYG9,025099630,Dishani Konda,Yearly,2021-05-28
+5633,Closed,Morgan Stanley,$5.58,21th,GSUAGBB8I5U,048906810,Bhamini Chaudhuri,Quarterly,2021-01-25
+5633,Closed,Morgan Stanley,"$92,071.63",1st,JAQYGB4KL5G,061771815,Renee Mannan,Quarterly,2022-10-18
+5633,Closed,Barclays,"$2,628.74",12th,DQJSGB10TME,115073841,Aniruddh Iyer,Yearly,2021-04-01
+5633,Closed,Discover Financial,$7.76,16th,XTSGGBQ5BKK,119706826,Neelofar Bhatt,Half Yearly,2020-10-30
+5477,Active,Discover Financial,$134.16,3rd,FZWTGBP81NK,040997762,Kanav Lad,Quarterly,2020-08-31
+5477,Active,UBS,"$2,515.76",16th,YOWMGBMRUIL,069613807,Dharmajan Bumb,Monthly,2021-05-24
+5477,Closed,JPMorgan Chase,$615.54,5th,EBDQGBE7WN1,014222036,Veer Wali,Yearly,2020-12-01
+5477,Closed,American Express,"$7,405.91",22th,GVRPGB0QCVO,025099630,Khushi Malhotra,Monthly,2022-06-24
+5477,Closed,American Express,"$59,685.79",3rd,ISHRGBE6Y6Q,115412240,Amani Borah,Yearly,2021-08-14
+5594,Closed,BankUnited,"$4,145.01",13th,UEGVGBOQP0F,061771815,Ojas Vora,Yearly,2022-09-08
+5594,Active,Capital One,$3.54,21th,XFXEGBQLX8M,048906810,Shlok Bains,Half Yearly,2021-05-22
+5594,Active,Citigroup,$27.90,14th,JRYOGBTTU6Z,102239685,Dhanuk Karpe,Yearly,2021-08-19
+5594,Closed,Bank of America,$32.60,13th,CKTWGBYOJH9,014222036,Aniruddh Datta,Quarterly,2020-11-17
+5594,Closed,Citigroup,"$8,727.43",26th,SPQSGBUHKLP,069613807,Dhanush Buch,Yearly,2022-09-23
+5594,Closed,UBS,"$51,236.08",21th,TYCYGBOWL8F,115073841,Yuvraj  Mani,Yearly,2021-07-16
+1370,Closed,RBC Bank,$436.40,14th,KMBFGBECFTL,076188008,Kismat Barman,Yearly,2022-07-21
+1370,Closed,Morgan Stanley,$18.21,15th,HYIXGBEAZEM,061771815,Vritika Gandhi,Monthly,2021-01-22
+1370,Closed,UBS,"$64,394.45",15th,ESJVGBURUTP,125225980,Shamik Deshmukh,Half Yearly,2022-06-10
+1370,Closed,Bank of America,"$7,594.48",10th,BIRBGBERGO7,061771815,Pihu Jaggi,Quarterly,2022-10-21
+9705,Closed,Wells Fargo,"$5,219.50",20th,IHBOGBRMG06,061771815,Anahi Hegde,Monthly,2021-03-15
+9705,Active,Morgan Stanley,$2.73,2nd,KQOFGBZ5HR1,075448079,Saksham Chowdhury,Yearly,2021-10-18
+5594,Closed,Bank of America,"$1,172.97",16th,BWOUGBKKO2L,048906810,Aarna Kunda,Half Yearly,2021-06-28
+5594,Active,Morgan Stanley,"$35,805.22",27th,KWCOGBVLZUO,048906810,Nitara Issac,Yearly,2022-11-20
+5594,Closed,Credit Suisse,$1.85,24th,OGXCGB8COH5,014222036,Madhup Kashyap,Monthly,2022-10-05
+5594,Closed,Morgan Stanley,$324.00,10th,OYHEGB9T66L,011041485,Sahil Bora,Monthly,2021-01-25
+5594,Closed,Wells Fargo,$274.00,24th,TFYTGBPTTCW,061155428,Tushar Kota,Half Yearly,2022-12-24
+5594,Closed,Wells Fargo,"$5,406.35",26th,RXHEGBAIIDS,115412240,Abram Sampath,Quarterly,2021-05-04
+4636,Closed,RBC Bank,"$9,751.11",12th,MNTDGBHFDLI,011041485,Ishaan Karnik,Monthly,2022-06-16
+4636,Active,Bank of America,$172.14,1st,NXWJGB4K0LS,115073841,Faiyaz Barad,Quarterly,2021-12-10
+4636,Closed,Bank of America,"$29,291.04",10th,GNFBGB0UK1C,011041485,Prerak Rajagopalan,Quarterly,2020-10-22
+4636,Active,Citigroup,$412.59,10th,ZPDCGBMXY1B,025099630,Stuvan Chakraborty,Yearly,2021-11-22
+3317,Active,Citigroup,$653.91,3rd,OEVEGB6CKC5,040997762,Veer Devi,Yearly,2021-04-05
+3317,Active,Wells Fargo,"$4,853.21",4th,DVLCGBPXIF5,075448079,Rohan Ganesan,Quarterly,2022-05-26
+3317,Active,American Express,$7.72,16th,UTNZGBD8XLI,069613807,Tarini Lal,Monthly,2020-12-21
+3317,Active,Wells Fargo,"$9,352.98",23th,MSCYGB70RGW,119706826,Shray Seshadri,Monthly,2021-06-15
+3317,Active,Credit Suisse,"$7,406.87",28th,CEMPGBTLTGZ,103019736,Kaira Thaman,Quarterly,2021-10-27
+3317,Active,RBC Bank,$713.28,15th,WBPNGBOYR9I,066502733,Jayesh Ganesh,Monthly,2020-10-27
+3310,Closed,Citigroup,"$32,426.38",17th,OJQRGBMVOQO,115412240,Onkar Aurora,Yearly,2021-06-08
+3310,Closed,Goldman Sachs,"$56,513.41",12th,KOTKGBYCQV2,035139823,Yuvaan Zacharia,Quarterly,2020-09-10
+3310,Closed,Citizens Financial Group,"$53,300.36",1st,UQCNGBS94WW,103019736,Shalv Bedi,Half Yearly,2023-01-12
+3310,Closed,UBS,$74.92,1st,YFZSGB2THBV,075448079,Inaaya  Dyal,Half Yearly,2022-09-03
+3310,Closed,Capital One,$935.64,1st,IWMQGBP4OPY,119706826,Kaira Kata,Quarterly,2022-05-06
+3310,Active,UBS,$363.63,5th,URIPGBYN8G1,102239685,Anahita Chaudhari,Monthly,2021-11-03
+8937,Closed,American Express,$511.39,17th,ZBQLGBZM4LK,102239685,Anahita Kalita,Half Yearly,2022-03-23
+8937,Closed,Wells Fargo,$158.04,26th,LVQCGBTHK2B,103019736,Abram Sarma,Half Yearly,2021-02-13
+8136,Active,UBS,"$8,394.47",25th,TEXOGBTOTLD,115412240,Shaan Rau,Half Yearly,2022-12-28
+8136,Active,Citizens Financial Group,$7.04,4th,ANNFGB38IC4,014222036,Mishti Gara,Monthly,2021-07-02
+2251,Closed,Morgan Stanley,$9.95,21th,XQGNGB38I4H,061771815,Yuvaan Sinha,Quarterly,2021-10-14
+2251,Active,Santander Bank,$118.33,14th,SMMQGB7ZGMR,075448079,Divit Varty,Yearly,2021-09-01
+2251,Closed,Bank of America,$604.14,1st,DIEWGBPPQT7,115412240,Jiya Jain,Quarterly,2022-02-14
+2251,Active,Santander Bank,$9.09,25th,TEQPGB70BO2,066502733,Jayesh Mangat,Monthly,2021-01-27
+2251,Closed,Citigroup,$6.78,22th,WHVEGBMT13Q,040997762,Jayesh Khare,Yearly,2020-09-30
+2251,Closed,HSBC Bank USA,$52.73,9th,OEJVGBYCVII,119706826,Rania Kannan,Half Yearly,2020-09-25
+613,Active,Citizens Financial Group,$13.10,19th,ROTKGBZDRQ9,115073841,Inaaya  Swamy,Monthly,2021-05-29
+613,Closed,Barclays,$24.04,20th,YWDDGB53KCN,048117780,Jayan Gaba,Quarterly,2022-07-09
+613,Active,American Express,"$4,287.29",11th,GGUUGBRUTOC,066502733,Azad Khare,Yearly,2022-12-09
+613,Active,Bank of America,$652.02,27th,WWNPGBKNAQM,075448079,Mahika Tank,Yearly,2022-02-13
+613,Active,American Express,"$3,853.28",12th,WDLDGBY3TOX,102239685,Siya Salvi,Yearly,2022-09-25
+613,Closed,Discover Financial,$6.63,12th,KDROGB5UEK6,061771815,Jiya Warrior,Quarterly,2021-06-02
+613,Active,Discover Financial,$42.36,4th,HOKLGBLUYIH,014222036,Mohanlal Arya,Quarterly,2022-11-28
+2251,Closed,Morgan Stanley,"$53,939.35",9th,GTOTGBLFIQS,048117780,Jayant Arora,Monthly,2022-03-19
+2251,Closed,JPMorgan Chase,$158.90,6th,STLUGB9EKNM,125225980,Kabir Chanda,Half Yearly,2021-09-10
+2251,Closed,Capital One,"$2,300.33",13th,SZHIGBBZAZO,069613807,Vardaniya Mander,Half Yearly,2021-01-05
+2251,Active,Morgan Stanley,"$1,903.77",9th,CVOLGBF84Z2,048117780,Misha Chopra,Half Yearly,2020-12-09
+2251,Closed,Wells Fargo,$6.21,17th,IAKGGBP5WSB,102239685,Eshani Sandal,Half Yearly,2022-06-05
+2251,Active,Goldman Sachs,"$88,712.25",21th,JJOYGBIGCFN,111919666,Priyansh Dube,Half Yearly,2022-03-30
+5594,Active,Santander Bank,"$6,108.78",14th,YYYJGBOYI8J,115412240,Armaan Yohannan,Yearly,2021-04-20
+5594,Closed,RBC Bank,"$2,223.67",18th,EBPIGB3WEI4,115073841,Rasha Sethi,Half Yearly,2022-01-12
+5594,Active,Bank of America,$12.02,3rd,YPRDGBK5M19,115073841,Priyansh Korpal,Yearly,2022-10-18
+5594,Closed,JPMorgan Chase,$45.88,26th,SUUFGBHPFQ2,102239685,Biju Varughese,Yearly,2021-03-04
+5116,Closed,Capital One,$345.79,6th,WPKDGBTMK3D,103019736,Gokul Sane,Yearly,2022-01-28
+5116,Active,RBC Bank,$55.58,26th,LMZNGBPFW3M,102239685,Oorja Soman,Half Yearly,2021-08-26
+5116,Active,Citigroup,"$6,401.87",20th,QUITGBR3CKX,125225980,Uthkarsh Sachdev,Yearly,2020-09-16
+5116,Closed,Barclays,$6.34,15th,ILOJGBXLRD1,111919666,Ayesha D’Alia,Half Yearly,2022-12-19
+5116,Active,Wells Fargo,$238.25,21th,XTZAGBBCAYM,103019736,Nehmat Mann,Quarterly,2021-03-07
